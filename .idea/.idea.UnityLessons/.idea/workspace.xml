@@ -9,92 +9,116 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="UpdateManager.cs" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Managers/UpdateManager.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-576">
+                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding>
+                      <marker date="1507077980020" expanded="true" signature="0:277" ph="/* =============================================================== ... */" />
+                      <marker date="1507077980020" expanded="false" signature="285:346" ph="..." />
+                      <marker date="1507077980020" expanded="true" signature="368:1188" ph="{...}" />
+                      <marker date="1507077980020" expanded="true" signature="501:1186" ph="{...}" />
+                      <marker date="1507077980020" expanded="true" signature="512:1180" ph="LOCAL" />
+                      <marker date="1507077980020" expanded="true" signature="570:587" ph="{...}" />
+                      <marker date="1507077980020" expanded="true" signature="630:790" ph="{...}" />
+                      <marker date="1507077980020" expanded="true" signature="700:782" ph="{...}" />
+                      <marker date="1507077980020" expanded="true" signature="847:985" ph="{...}" />
+                      <marker date="1507077980020" expanded="true" signature="1024:1161" ph="{...}" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SceneGenerator.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs">
+    <leaf>
+      <file leaf-file-name="CubeScaler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="288">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
-                <marker date="1508273019723" expanded="true" signature="8:109" ph="..." />
-                <marker date="1508273019723" expanded="true" signature="159:1077" ph="{...}" />
-                <marker date="1508273019723" expanded="true" signature="190:263" ph="{...}" />
-                <marker date="1508273019723" expanded="true" signature="355:1068" ph="{...}" />
+                <marker date="1507912295519" expanded="true" signature="6:116" ph="..." />
+                <marker date="1507912295519" expanded="true" signature="158:309" ph="{...}" />
+                <marker date="1507912295519" expanded="true" signature="217:307" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EditorSceneManager.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/91C0191C-4815-4FC3-8DB9-78E1A55BC0D9/40/399cab80/EditorSceneManager.cs">
+      <file leaf-file-name="MonoCached.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/MonoCached.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="481" column="100" lean-forward="false" selection-start-line="481" selection-start-column="49" selection-end-line="481" selection-end-column="100" />
+            <state relative-caret-position="192">
+              <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="43" />
               <folding>
-                <marker date="1508269270017" expanded="true" signature="0:316" ph="/* Decompiled with JetBrains decompiler ... */" />
-                <marker date="1508269270017" expanded="false" signature="324:499" ph="..." />
-                <marker date="1508269270017" expanded="true" signature="538:21756" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="543:626" ph="///   &lt;para&gt;Scene management in the Editor.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="true" signature="682:21754" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="832:916" ph="///   &lt;para&gt;The number of loaded Scenes.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="1055:1177" ph="///   &lt;para&gt;Controls whether cross-Scene references are allowed in the Editor.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="1411:1514" ph="///   &lt;para&gt;Loads this SceneAsset when you start Play Mode.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="2294:2841" ph="///   &lt;para&gt;Open a Scene in the Editor.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="true" signature="2952:3081" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="3156:3334" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="3539:3878" ph="///   &lt;para&gt;Create a new Scene.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="true" signature="3989:4113" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="4190:4361" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="4567:4808" ph="///   &lt;para&gt;Creates a new preview scene.  Any object added to a preview scene will only be rendered in that scene ... " />
-                <marker date="1508269270017" expanded="true" signature="4850:4968" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="5227:5429" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="5631:6078" ph="///   &lt;para&gt;Close the Scene. If removeScene flag is true, the closed Scene will also be removed from EditorSceneM ... " />
-                <marker date="1508269270017" expanded="true" signature="6143:6237" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="6423:6696" ph="///   &lt;para&gt;Closes a preview scene created by NewPreviewScene.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="true" signature="6750:6838" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="7058:7140" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="7534:7668" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="7907:8034" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="8220:8578" ph="///   &lt;para&gt;Allows you to reorder the Scenes currently open in the Hierarchy window. Moves the source Scene so it ... " />
-                <marker date="1508269270017" expanded="true" signature="8639:8725" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="8911:9269" ph="///   &lt;para&gt;Allows you to reorder the Scenes currently open in the Hierarchy window. Moves the source Scene so it ... " />
-                <marker date="1508269270017" expanded="true" signature="9329:9414" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="9644:9726" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="9979:10098" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="10167:10318" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="10324:10919" ph="///   &lt;para&gt;Save a Scene.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="true" signature="11050:11283" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="11378:11493" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="11707:11900" ph="///   &lt;para&gt;Save all open Scenes.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="12041:12298" ph="///   &lt;para&gt;Save a list of Scenes.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="12449:12724" ph="///   &lt;para&gt;Asks you if you want to save the modified Scene or Scenes.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="12889:13201" ph="///   &lt;para&gt;Asks whether the modfied input Scenes should be saved.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="13373:13708" ph="///   &lt;para&gt;Shows a save dialog if an Untitled scene exists in the current scene manager setup.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="13886:14163" ph="///   &lt;para&gt;Mark the specified Scene as modified.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="true" signature="14214:14299" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="14471:14566" ph="///   &lt;para&gt;Mark all the loaded Scenes as modified.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="14711:14931" ph="///   &lt;para&gt;Returns the current setup of the SceneManager.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="15086:15304" ph="///   &lt;para&gt;Restore the setup of the SceneManager.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="false" signature="15473:15748" ph="///   &lt;para&gt;Detects cross-scene references in a Scene.&lt;/para&gt; ... " />
-                <marker date="1508269270017" expanded="true" signature="15811:15908" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="16171:16308" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="16390:16525" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="16655:16911" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="17018:17260" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="17366:17607" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="17714:17966" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="18052:18287" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="18386:18627" ph="{...}" />
-                <marker date="1508269270017" expanded="true" signature="18712:18945" ph="{...}" />
-                <marker date="1508269270017" expanded="false" signature="18951:19345" ph="///   &lt;para&gt;Callbacks of this type which have been added to the newSceneCreated event are called after a new Scen ... " />
-                <marker date="1508269270017" expanded="false" signature="19454:19802" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneOpening event are called just before opening ... " />
-                <marker date="1508269270017" expanded="false" signature="19888:20186" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneOpened event are called after a Scene has be ... " />
-                <marker date="1508269270017" expanded="false" signature="20271:20692" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneClosing event are called just before a Scene ... " />
-                <marker date="1508269270017" expanded="false" signature="20778:21022" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneClosed event are called immediately after th ... " />
-                <marker date="1508269270017" expanded="false" signature="21087:21387" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneSaving event are called just before the Scen ... " />
-                <marker date="1508269270017" expanded="false" signature="21465:21692" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneSaved event are called after a Scene has bee ... " />
+                <marker date="1507912875041" expanded="true" signature="6:52" ph="..." />
+                <marker date="1507912875041" expanded="true" signature="95:679" ph="{...}" />
+                <marker date="1507912875041" expanded="true" signature="353:393" ph="{...}" />
+                <marker date="1507912875041" expanded="true" signature="424:467" ph="{...}" />
+                <marker date="1507912875041" expanded="true" signature="491:521" ph="{...}" />
+                <marker date="1507912875041" expanded="false" signature="549:570" ph="{...}" />
+                <marker date="1507912875041" expanded="false" signature="597:618" ph="{...}" />
+                <marker date="1507912875041" expanded="true" signature="653:674" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CubeScalerExtended.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScalerExtended.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding>
+                <marker date="1507912291839" expanded="false" signature="6:78" ph="..." />
+                <marker date="1507912291839" expanded="true" signature="125:298" ph="{...}" />
+                <marker date="1507912291839" expanded="true" signature="179:281" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/UpdateManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <marker date="1507912433111" expanded="true" signature="6:78" ph="..." />
+                <marker date="1507912433111" expanded="true" signature="123:654" ph="{...}" />
+                <marker date="1507912433111" expanded="true" signature="180:302" ph="{...}" />
+                <marker date="1507912433111" expanded="true" signature="239:293" ph="{...}" />
+                <marker date="1507912433111" expanded="true" signature="326:471" ph="{...}" />
+                <marker date="1507912433111" expanded="true" signature="397:465" ph="{...}" />
+                <marker date="1507912433111" expanded="true" signature="494:637" ph="{...}" />
+                <marker date="1507912433111" expanded="true" signature="564:631" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CubeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1507911373814" expanded="true" signature="6:78" ph="..." />
+                <marker date="1507911373814" expanded="true" signature="123:343" ph="{...}" />
+                <marker date="1507911373814" expanded="true" signature="247:340" ph="{...}" />
+                <marker date="1507911373814" expanded="true" signature="287:331" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -107,21 +131,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/MonoCached.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/EditorPostProcessor.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/91C0191C-4815-4FC3-8DB9-78E1A55BC0D9/40/399cab80/EditorSceneManager.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Managers/UpdateManager.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScalerExtended.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/MeshPostProcessor.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Utilities/Singleton.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorCorvetteShip.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Actor.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/ProjectPref/Editor/SceneGenerator.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/UpdateManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Singleton/Scripts/InputShip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Behaviours/RenderGroup.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -143,9 +161,6 @@
         <option value="$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs" />
         <option value="$PROJECT_DIR$/Assets/UpdateManager/UpdateManager.cs" />
         <option value="$PROJECT_DIR$/Assets/UpdateManager/MonoCached.cs" />
-        <option value="$PROJECT_DIR$/Assets/SceneManager/SceneGenerator.cs" />
-        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/91C0191C-4815-4FC3-8DB9-78E1A55BC0D9/40/399cab80/EditorSceneManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" />
       </list>
     </option>
   </component>
@@ -156,10 +171,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="23" />
-    <option name="width" value="2572" />
-    <option name="height" value="1415" />
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="2576" />
+    <option name="height" value="1426" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -176,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -185,7 +199,7 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UnityLessons (3 projects)" />
+              <option name="myItemId" value="UnityLessons (2 projects)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,6 +207,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,14 +376,11 @@
       <workItem from="1507725388953" duration="3379000" />
       <workItem from="1507731894715" duration="5000" />
       <workItem from="1507906282532" duration="3904000" />
-      <workItem from="1508266783188" duration="1366000" />
-      <workItem from="1508268559317" duration="1743000" />
-      <workItem from="1508271577664" duration="1261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17878000" />
+    <option name="totallyTimeSpent" value="13508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,7 +392,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="2572" height="1415" extended-state="0" />
+    <frame x="-8" y="22" width="2576" height="1426" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -388,15 +400,15 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991317" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11703822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11446741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -418,189 +430,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <marker date="1507912295519" expanded="false" signature="6:116" ph="..." />
-            <marker date="1507912295519" expanded="true" signature="158:309" ph="{...}" />
-            <marker date="1507912295519" expanded="true" signature="217:307" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/MonoCached.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <marker date="1507912875041" expanded="false" signature="6:52" ph="..." />
-            <marker date="1507912875041" expanded="true" signature="95:679" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="353:393" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="424:467" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="491:521" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="549:570" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="597:618" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="653:674" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/ProjectPref/Editor/SceneGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/EditorPostProcessor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/MeshPostProcessor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScalerExtended.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <marker date="1507912291839" expanded="false" signature="6:78" ph="..." />
-            <marker date="1507912291839" expanded="true" signature="125:298" ph="{...}" />
-            <marker date="1507912291839" expanded="true" signature="179:281" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/UpdateManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <marker date="1507912433111" expanded="false" signature="6:78" ph="..." />
-            <marker date="1507912433111" expanded="true" signature="123:654" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="180:302" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="239:293" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="326:471" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="397:465" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="494:637" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="564:631" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Singleton/Scripts/InputShip.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <marker date="1507912295519" expanded="false" signature="6:116" ph="..." />
-            <marker date="1507912295519" expanded="true" signature="158:309" ph="{...}" />
-            <marker date="1507912295519" expanded="true" signature="217:307" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScalerExtended.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <marker date="1507912291839" expanded="false" signature="6:78" ph="..." />
-            <marker date="1507912291839" expanded="true" signature="125:298" ph="{...}" />
-            <marker date="1507912291839" expanded="true" signature="179:281" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/UpdateManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <marker date="1507912433111" expanded="false" signature="6:78" ph="..." />
-            <marker date="1507912433111" expanded="true" signature="123:654" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="180:302" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="239:293" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="326:471" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="397:465" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="494:637" ph="{...}" />
-            <marker date="1507912433111" expanded="true" signature="564:631" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/MonoCached.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <marker date="1507912875041" expanded="false" signature="6:52" ph="..." />
-            <marker date="1507912875041" expanded="true" signature="95:679" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="353:393" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="424:467" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="491:521" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="549:570" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="597:618" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="653:674" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Managers/UpdateManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShipController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputShip.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Singleton/Scripts/InputShip.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="286">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -650,12 +486,63 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/InputShip.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShipController.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeCreator.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScalerBetter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeCreator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScalerBetter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="81" lean-forward="false" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Managers/UpdateManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507077980020" expanded="true" signature="0:277" ph="/* =============================================================== ... */" />
+            <marker date="1507077980020" expanded="false" signature="285:346" ph="..." />
+            <marker date="1507077980020" expanded="true" signature="368:1188" ph="{...}" />
+            <marker date="1507077980020" expanded="true" signature="501:1186" ph="{...}" />
+            <marker date="1507077980020" expanded="true" signature="512:1180" ph="LOCAL" />
+            <marker date="1507077980020" expanded="true" signature="570:587" ph="{...}" />
+            <marker date="1507077980020" expanded="true" signature="630:790" ph="{...}" />
+            <marker date="1507077980020" expanded="true" signature="700:782" ph="{...}" />
+            <marker date="1507077980020" expanded="true" signature="847:985" ph="{...}" />
+            <marker date="1507077980020" expanded="true" signature="1024:1161" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507911373814" expanded="true" signature="6:78" ph="..." />
+            <marker date="1507911373814" expanded="true" signature="123:343" ph="{...}" />
+            <marker date="1507911373814" expanded="true" signature="247:340" ph="{...}" />
+            <marker date="1507911373814" expanded="true" signature="287:331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <marker date="1507912295519" expanded="true" signature="6:116" ph="..." />
+            <marker date="1507912295519" expanded="true" signature="158:309" ph="{...}" />
+            <marker date="1507912295519" expanded="true" signature="217:307" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -673,10 +560,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/UpdateManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="224">
           <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
-            <marker date="1507912433111" expanded="false" signature="6:78" ph="..." />
+            <marker date="1507912433111" expanded="true" signature="6:78" ph="..." />
             <marker date="1507912433111" expanded="true" signature="123:654" ph="{...}" />
             <marker date="1507912433111" expanded="true" signature="180:302" ph="{...}" />
             <marker date="1507912433111" expanded="true" signature="239:293" ph="{...}" />
@@ -688,155 +575,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SceneManager/SceneGenerator.cs" />
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/EditorPostProcessor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/MeshPostProcessor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Managers/UpdateManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/MonoCached.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="192">
           <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="43" />
           <folding>
-            <marker date="1507912875041" expanded="false" signature="6:52" ph="..." />
+            <marker date="1507912875041" expanded="true" signature="6:52" ph="..." />
             <marker date="1507912875041" expanded="true" signature="95:679" ph="{...}" />
             <marker date="1507912875041" expanded="true" signature="353:393" ph="{...}" />
             <marker date="1507912875041" expanded="true" signature="424:467" ph="{...}" />
             <marker date="1507912875041" expanded="true" signature="491:521" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="549:570" ph="{...}" />
-            <marker date="1507912875041" expanded="true" signature="597:618" ph="{...}" />
+            <marker date="1507912875041" expanded="false" signature="549:570" ph="{...}" />
+            <marker date="1507912875041" expanded="false" signature="597:618" ph="{...}" />
             <marker date="1507912875041" expanded="true" signature="653:674" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/ProjectPref/Editor/SceneGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <marker date="1507912295519" expanded="false" signature="6:116" ph="..." />
-            <marker date="1507912295519" expanded="true" signature="158:309" ph="{...}" />
-            <marker date="1507912295519" expanded="true" signature="217:307" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/91C0191C-4815-4FC3-8DB9-78E1A55BC0D9/40/399cab80/EditorSceneManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="481" column="100" lean-forward="false" selection-start-line="481" selection-start-column="49" selection-end-line="481" selection-end-column="100" />
-          <folding>
-            <marker date="1508269270017" expanded="true" signature="0:316" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1508269270017" expanded="false" signature="324:499" ph="..." />
-            <marker date="1508269270017" expanded="true" signature="538:21756" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="543:626" ph="///   &lt;para&gt;Scene management in the Editor.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="true" signature="682:21754" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="832:916" ph="///   &lt;para&gt;The number of loaded Scenes.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="1055:1177" ph="///   &lt;para&gt;Controls whether cross-Scene references are allowed in the Editor.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="1411:1514" ph="///   &lt;para&gt;Loads this SceneAsset when you start Play Mode.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="2294:2841" ph="///   &lt;para&gt;Open a Scene in the Editor.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="true" signature="2952:3081" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="3156:3334" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="3539:3878" ph="///   &lt;para&gt;Create a new Scene.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="true" signature="3989:4113" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="4190:4361" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="4567:4808" ph="///   &lt;para&gt;Creates a new preview scene.  Any object added to a preview scene will only be rendered in that scene ... " />
-            <marker date="1508269270017" expanded="true" signature="4850:4968" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="5227:5429" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="5631:6078" ph="///   &lt;para&gt;Close the Scene. If removeScene flag is true, the closed Scene will also be removed from EditorSceneM ... " />
-            <marker date="1508269270017" expanded="true" signature="6143:6237" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="6423:6696" ph="///   &lt;para&gt;Closes a preview scene created by NewPreviewScene.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="true" signature="6750:6838" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="7058:7140" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="7534:7668" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="7907:8034" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="8220:8578" ph="///   &lt;para&gt;Allows you to reorder the Scenes currently open in the Hierarchy window. Moves the source Scene so it ... " />
-            <marker date="1508269270017" expanded="true" signature="8639:8725" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="8911:9269" ph="///   &lt;para&gt;Allows you to reorder the Scenes currently open in the Hierarchy window. Moves the source Scene so it ... " />
-            <marker date="1508269270017" expanded="true" signature="9329:9414" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="9644:9726" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="9979:10098" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="10167:10318" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="10324:10919" ph="///   &lt;para&gt;Save a Scene.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="true" signature="11050:11283" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="11378:11493" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="11707:11900" ph="///   &lt;para&gt;Save all open Scenes.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="12041:12298" ph="///   &lt;para&gt;Save a list of Scenes.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="12449:12724" ph="///   &lt;para&gt;Asks you if you want to save the modified Scene or Scenes.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="12889:13201" ph="///   &lt;para&gt;Asks whether the modfied input Scenes should be saved.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="13373:13708" ph="///   &lt;para&gt;Shows a save dialog if an Untitled scene exists in the current scene manager setup.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="13886:14163" ph="///   &lt;para&gt;Mark the specified Scene as modified.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="true" signature="14214:14299" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="14471:14566" ph="///   &lt;para&gt;Mark all the loaded Scenes as modified.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="14711:14931" ph="///   &lt;para&gt;Returns the current setup of the SceneManager.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="15086:15304" ph="///   &lt;para&gt;Restore the setup of the SceneManager.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="false" signature="15473:15748" ph="///   &lt;para&gt;Detects cross-scene references in a Scene.&lt;/para&gt; ... " />
-            <marker date="1508269270017" expanded="true" signature="15811:15908" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="16171:16308" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="16390:16525" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="16655:16911" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="17018:17260" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="17366:17607" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="17714:17966" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="18052:18287" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="18386:18627" ph="{...}" />
-            <marker date="1508269270017" expanded="true" signature="18712:18945" ph="{...}" />
-            <marker date="1508269270017" expanded="false" signature="18951:19345" ph="///   &lt;para&gt;Callbacks of this type which have been added to the newSceneCreated event are called after a new Scen ... " />
-            <marker date="1508269270017" expanded="false" signature="19454:19802" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneOpening event are called just before opening ... " />
-            <marker date="1508269270017" expanded="false" signature="19888:20186" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneOpened event are called after a Scene has be ... " />
-            <marker date="1508269270017" expanded="false" signature="20271:20692" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneClosing event are called just before a Scene ... " />
-            <marker date="1508269270017" expanded="false" signature="20778:21022" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneClosed event are called immediately after th ... " />
-            <marker date="1508269270017" expanded="false" signature="21087:21387" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneSaving event are called just before the Scen ... " />
-            <marker date="1508269270017" expanded="false" signature="21465:21692" ph="///   &lt;para&gt;Callbacks of this type which have been added to the sceneSaved event are called after a Scene has bee ... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <marker date="1508273019723" expanded="true" signature="8:109" ph="..." />
-            <marker date="1508273019723" expanded="true" signature="159:1077" ph="{...}" />
-            <marker date="1508273019723" expanded="true" signature="190:263" ph="{...}" />
-            <marker date="1508273019723" expanded="true" signature="355:1068" ph="{...}" />
           </folding>
         </state>
       </provider>
