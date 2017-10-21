@@ -10,7 +10,6 @@ public class Loader : MonoBehaviour
     public GameObject prefab2;
     
     public List<GameObject> objs = new List<GameObject>();
-    public List<Transform> objss = new List<Transform>();
 
     void Awake()
     {
