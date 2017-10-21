@@ -11,21 +11,27 @@ public class Loader : MonoBehaviour
  
     
     public List<GameObject> objs = new List<GameObject>();
-    public List<Transform> objss = new List<Transform>();
+ 
 
     void Awake()
     {
-        ManagerPool.Instance.AddPool(PoolType.Entities);
+      //  ManagerPool.Instance.AddPool(PoolType.Entities).PopulateWith(prefab, 100, 10);
+
+       
 
     }
 
+    void Start()
+    {
+    //   ManagerPool.Instance.Get(PoolType.Entities).PopulateWith(prefab, 10, 1, 100);
+    }
 
     void Update()
     {
 
         if (Input.GetKeyDown(KeyCode.A))
         {
-            for (int i = 0; i < 1; i++)
+            for (var i = 0; i < 1; i++)
             {
                 objs.Add(ManagerPool.Instance.Spawn(PoolType.Entities,prefab)); 
             }

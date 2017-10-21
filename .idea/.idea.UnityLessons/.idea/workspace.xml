@@ -12,10 +12,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ManagerPool.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ManagerPool.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
+            <state relative-caret-position="-960">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1508621575002" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
@@ -29,6 +29,30 @@
                 <marker date="1508621575002" expanded="true" signature="1632:1775" ph="{...}" />
                 <marker date="1508621575002" expanded="true" signature="1833:1894" ph="{...}" />
                 <marker date="1508621575002" expanded="true" signature="1926:2064" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Starter.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="73" column="56" lean-forward="false" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+              <folding>
+                <marker date="1508622362854" expanded="true" signature="0:277" ph="/* =============================================================== ... */" />
+                <marker date="1508622362854" expanded="false" signature="285:462" ph="..." />
+                <marker date="1508622362854" expanded="true" signature="483:1743" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="547:1741" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="554:1735" ph="MEMBERS" />
+                <marker date="1508622362854" expanded="true" signature="718:776" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="802:876" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="989:1477" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="1098:1166" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="1263:1457" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="1301:1447" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="1507:1674" ph="{...}" />
+                <marker date="1508622362854" expanded="true" signature="1706:1719" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -126,12 +150,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Utilities/Singleton.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/85/55c8a5c6/Dictionary`2.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Events/EventKill.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/ProjectPref/Editor/SceneGenerator.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Behaviours/RenderGroup.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/PoolManager/Pool.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/PoolManager/ManagerPool.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/69/da65d09c/List`1.cs" root0="SKIP_INSPECTION" />
@@ -148,20 +174,14 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/91C0191C-4815-4FC3-8DB9-78E1A55BC0D9/40/399cab80/EditorSceneManager.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorCorvetteShip.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/UpdateManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/MonoCached.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample07_OrchestratIEnumerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorProbeShip.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/fb/8709e293/GameObject.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample02_ObservableTriggers.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScalerExtended.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorAsteroid.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample06_ConvertToCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Singleton/Scripts/InputShip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Decorators/DecoratorWeaponBeam.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample03_GameObjectAsObservable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UpdateManager/CubeScaler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/f7/43d29b58/Object.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/77/1d12320f/Enum.cs" root0="SKIP_INSPECTION" />
@@ -219,6 +239,8 @@
         <option value="$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" />
+        <option value="$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs" />
       </list>
     </option>
   </component>
@@ -229,8 +251,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3551" />
-    <option name="y" value="72" />
+    <option name="x" value="2295" />
+    <option name="y" value="110" />
     <option name="width" value="2576" />
     <option name="height" value="1426" />
   </component>
@@ -448,7 +470,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66181000" />
+    <option name="totallyTimeSpent" value="66815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,7 +482,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3551" y="72" width="2576" height="1426" extended-state="0" />
+    <frame x="2295" y="110" width="2576" height="1426" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -539,21 +561,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/77/1d12320f/Enum.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16158">
-          <caret line="568" column="32" lean-forward="false" selection-start-line="568" selection-start-column="32" selection-end-line="568" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/85/55c8a5c6/Dictionary`2.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="289" column="16" lean-forward="false" selection-start-line="289" selection-start-column="16" selection-end-line="289" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scriptables/Scriptable.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scriptables/Scrippa.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/69/da65d09c/List`1.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -859,9 +866,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <marker date="1508621992212" expanded="false" signature="24:84" ph="..." />
+            <marker date="1508621992212" expanded="true" signature="101:2310" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="165:2308" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="266:504" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="292:385" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="401:494" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="542:802" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="647:792" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="702:778" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="949:1177" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="1105:1167" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="1319:1401" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="1454:2293" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="1477:1870" ph="/* Before scene start:          isPlayingOrWillChangePlaymode = false;  isPlaying = false ... */" />
+            <marker date="1508621992212" expanded="true" signature="1967:2037" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="2054:2125" ph="{...}" />
+            <marker date="1508621992212" expanded="true" signature="2220:2283" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
+        <state relative-caret-position="-960">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1508621575002" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
@@ -875,6 +917,28 @@
             <marker date="1508621575002" expanded="true" signature="1632:1775" ph="{...}" />
             <marker date="1508621575002" expanded="true" signature="1833:1894" ph="{...}" />
             <marker date="1508621575002" expanded="true" signature="1926:2064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="73" column="56" lean-forward="false" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+          <folding>
+            <marker date="1508622362854" expanded="true" signature="0:277" ph="/* =============================================================== ... */" />
+            <marker date="1508622362854" expanded="false" signature="285:462" ph="..." />
+            <marker date="1508622362854" expanded="true" signature="483:1743" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="547:1741" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="554:1735" ph="MEMBERS" />
+            <marker date="1508622362854" expanded="true" signature="718:776" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="802:876" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="989:1477" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="1098:1166" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="1263:1457" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="1301:1447" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="1507:1674" ph="{...}" />
+            <marker date="1508622362854" expanded="true" signature="1706:1719" ph="{...}" />
           </folding>
         </state>
       </provider>

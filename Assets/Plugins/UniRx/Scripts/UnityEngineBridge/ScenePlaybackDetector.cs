@@ -52,28 +52,33 @@ namespace UniRx
         // InitializeOnLoad ensures that this constructor is called when the Unity Editor is started.
         static ScenePlaybackDetector()
         {
-            EditorApplication.playmodeStateChanged += () =>
-            {
-                // Before scene start:          isPlayingOrWillChangePlaymode = false;  isPlaying = false
-                // Pressed Playback button:     isPlayingOrWillChangePlaymode = true;   isPlaying = false
-                // Playing:                     isPlayingOrWillChangePlaymode = false;  isPlaying = true
-                // Pressed stop button:         isPlayingOrWillChangePlaymode = true;   isPlaying = true
-                if (EditorApplication.isPlayingOrWillChangePlaymode && !EditorApplication.isPlaying)
-                {
-                    AboutToStartScene = true;
-                }
-                else
-                {
-                    AboutToStartScene = false;
-                }
 
-                // Detect when playback is stopped.
-                if (!EditorApplication.isPlaying)
-                {
-                    IsPlaying = false;
-                }
-            };
+            EditorApplication.playModeStateChanged += Test;
+
         }
+
+        static void Test(PlayModeStateChange state)
+        {
+            // Before scene start:          isPlayingOrWillChangePlaymode = false;  isPlaying = false
+            // Pressed Playback button:     isPlayingOrWillChangePlaymode = true;   isPlaying = false
+            // Playing:                     isPlayingOrWillChangePlaymode = false;  isPlaying = true
+            // Pressed stop button:         isPlayingOrWillChangePlaymode = true;   isPlaying = true
+            if (EditorApplication.isPlayingOrWillChangePlaymode && !EditorApplication.isPlaying)
+            {
+                AboutToStartScene = true;
+            }
+            else
+            {
+                AboutToStartScene = false;
+            }
+
+            // Detect when playback is stopped.
+            if (!EditorApplication.isPlaying)
+            {
+                IsPlaying = false;
+            }
+        }
+        
     }
 }
 
