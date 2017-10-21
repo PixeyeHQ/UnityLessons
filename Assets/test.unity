@@ -188,7 +188,6 @@ Camera:
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -316,6 +315,68 @@ Transform:
   - {fileID: 504765319}
   m_Father: {fileID: 183901277}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &625850336
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 625850338}
+  - component: {fileID: 625850337}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &625850337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 625850336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59dfbc0f4f3a98b4ebf4ad40fc3f43aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolName: E
+  matchPoolScale: 0
+  matchPoolLayer: 0
+  dontReparent: 0
+  _dontDestroyOnLoad: 0
+  logMessages: 0
+  _perPrefabPoolOptions:
+  - prefab: {fileID: 4179968205989268, guid: 24e5d8c4ff1d4bb43b17447347e48aba, type: 2}
+    preloadAmount: 0
+    preloadTime: 0
+    preloadFrames: 2
+    preloadDelay: 0
+    limitInstances: 0
+    limitAmount: 100
+    limitFIFO: 0
+    cullDespawned: 0
+    cullAbove: 50
+    cullDelay: 60
+    cullMaxPerPass: 5
+    _logMessages: 0
+    spawnPool: {fileID: 0}
+  maxParticleDespawnTime: 300
+--- !u!4 &625850338
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 625850336}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &751889352
 GameObject:
@@ -456,14 +517,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1884490477}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfb0a18f50ff52a40b24efe4d8a26f14, type: 3}
+  m_Script: {fileID: 11500000, guid: 17d4010650ed6384f802938911ec1073, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 1792309766258042, guid: 0fe8f81dca82f684ea245459c8493da1, type: 2}
-  prefabs: {fileID: 1792309766258042, guid: f5bebddb549553648a1bbfce9182eb42, type: 2}
-  scrippa: {fileID: 0}
-  scripper: {fileID: 0}
-  scriptable: {fileID: 0}
+  prefab: {fileID: 1486146542587424, guid: 24e5d8c4ff1d4bb43b17447347e48aba, type: 2}
+  prefab2: {fileID: 1539044117067468, guid: e69b2429dc777a64ea081053a8b873e2, type: 2}
+  objs: []
 --- !u!4 &1884490479
 Transform:
   m_ObjectHideFlags: 0
