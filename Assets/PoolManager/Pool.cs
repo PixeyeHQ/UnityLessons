@@ -1,11 +1,20 @@
+/*===============================================================
+Product:    Unity3d Utilities
+Developer:  Dimitry Pixeye - pixeye@hbrew.store
+Company:    Homebrew - http://hbrew.store
+Date:       16/09/2017 01:51
+================================================================*/
+
 using System.Collections.Generic;
 using UniRx;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
- 
 
-public class Pool
+namespace Homebrew
+{
+   
+    public class Pool
 {
 
     private Transform parentPool;
@@ -100,3 +109,7 @@ public class Pool
 
 
 }
+
+
+}
+ 
