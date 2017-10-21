@@ -1,13 +1,14 @@
 ﻿
 using System.Collections.Generic;
 using UnityEngine;
+using Homebrew;
 
 public class Loader : MonoBehaviour
 {
 
 
     public GameObject prefab;
-    public GameObject prefab2;
+ 
     
     public List<GameObject> objs = new List<GameObject>();
     public List<Transform> objss = new List<Transform>();

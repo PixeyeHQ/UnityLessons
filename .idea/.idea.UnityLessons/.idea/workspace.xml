@@ -12,21 +12,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ManagerPool.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ManagerPool.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+            <state relative-caret-position="-384">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1508613494385" expanded="true" signature="6:68" ph="..." />
-                <marker date="1508613494385" expanded="true" signature="120:1610" ph="{...}" />
-                <marker date="1508613494385" expanded="true" signature="252:767" ph="{...}" />
-                <marker date="1508613494385" expanded="true" signature="337:740" ph="{...}" />
-                <marker date="1508613494385" expanded="true" signature="443:730" ph="{...}" />
-                <marker date="1508613494385" expanded="false" signature="949:1035" ph="{...}" />
-                <marker date="1508613494385" expanded="false" signature="1227:1354" ph="{...}" />
-                <marker date="1508613494385" expanded="false" signature="1408:1457" ph="{...}" />
-                <marker date="1508613494385" expanded="false" signature="1485:1603" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
+                <marker date="1508621575002" expanded="true" signature="289:335" ph="..." />
+                <marker date="1508621575002" expanded="true" signature="355:2078" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="413:2075" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="557:1136" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="654:1101" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="776:1087" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="1330:1428" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="1632:1775" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="1833:1894" ph="{...}" />
+                <marker date="1508621575002" expanded="true" signature="1926:2064" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPoolable.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1508621631522" expanded="true" signature="18:121" ph="{...}" />
+                <marker date="1508621631522" expanded="true" signature="51:118" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -35,39 +50,54 @@
       <file leaf-file-name="Pool.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1946">
-              <caret line="94" column="10" lean-forward="false" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1508613484986" expanded="true" signature="6:100" ph="..." />
-                <marker date="1508613484986" expanded="true" signature="122:3230" ph="{...}" />
-                <marker date="1508613484986" expanded="true" signature="458:1166" ph="{...}" />
-                <marker date="1508613484986" expanded="true" signature="710:1137" ph="{...}" />
-                <marker date="1508613484986" expanded="true" signature="812:1125" ph="{...}" />
-                <marker date="1508613484986" expanded="false" signature="1220:1261" ph="{...}" />
-                <marker date="1508613484986" expanded="true" signature="1415:2349" ph="{...}" />
-                <marker date="1508613484986" expanded="true" signature="1622:2092" ph="{...}" />
-                <marker date="1508613484986" expanded="true" signature="2390:2692" ph="{...}" />
-                <marker date="1508613484986" expanded="false" signature="2720:2817" ph="{...}" />
-                <marker date="1508613484986" expanded="true" signature="2975:3226" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
+                <marker date="1508621620147" expanded="true" signature="290:384" ph="..." />
+                <marker date="1508621620147" expanded="true" signature="404:3830" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="429:3828" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="791:1573" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="1064:1536" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="1174:1520" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="1623:1676" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="1846:2852" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="2074:2590" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="2897:3224" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="3256:3373" ph="{...}" />
+                <marker date="1508621620147" expanded="true" signature="3539:3820" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Loader.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PoolType.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1508621607674" expanded="true" signature="19:97" ph="{...}" />
+                <marker date="1508621607674" expanded="true" signature="46:95" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+            <state relative-caret-position="128">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
-                <marker date="1508617282467" expanded="true" signature="7:53" ph="..." />
-                <marker date="1508617282467" expanded="true" signature="90:867" ph="{...}" />
-                <marker date="1508617282467" expanded="true" signature="295:365" ph="{...}" />
-                <marker date="1508617282467" expanded="true" signature="385:860" ph="{...}" />
-                <marker date="1508617282467" expanded="true" signature="433:603" ph="{...}" />
-                <marker date="1508617282467" expanded="true" signature="483:592" ph="{...}" />
-                <marker date="1508617282467" expanded="true" signature="651:847" ph="{...}" />
-                <marker date="1508617282467" expanded="true" signature="710:811" ph="{...}" />
+                <marker date="1508621647692" expanded="true" signature="7:69" ph="..." />
+                <marker date="1508621647692" expanded="true" signature="106:854" ph="{...}" />
+                <marker date="1508621647692" expanded="true" signature="282:352" ph="{...}" />
+                <marker date="1508621647692" expanded="true" signature="372:847" ph="{...}" />
+                <marker date="1508621647692" expanded="true" signature="420:590" ph="{...}" />
+                <marker date="1508621647692" expanded="true" signature="470:579" ph="{...}" />
+                <marker date="1508621647692" expanded="true" signature="638:834" ph="{...}" />
+                <marker date="1508621647692" expanded="true" signature="697:798" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,28 +106,13 @@
       <file leaf-file-name="BigShip.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="160">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
-                <marker date="1508540826797" expanded="false" signature="6:78" ph="..." />
-                <marker date="1508540826797" expanded="true" signature="129:269" ph="{...}" />
-                <marker date="1508540826797" expanded="true" signature="201:216" ph="{...}" />
-                <marker date="1508540826797" expanded="true" signature="245:257" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectPooled.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ObjectPooled.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1508527529431" expanded="false" signature="6:78" ph="..." />
-                <marker date="1508527529431" expanded="true" signature="133:235" ph="{...}" />
-                <marker date="1508527529431" expanded="true" signature="164:185" ph="{...}" />
-                <marker date="1508527529431" expanded="true" signature="214:233" ph="{...}" />
+                <marker date="1508621640098" expanded="true" signature="6:34" ph="..." />
+                <marker date="1508621640098" expanded="true" signature="85:182" ph="{...}" />
+                <marker date="1508621640098" expanded="true" signature="114:129" ph="{...}" />
+                <marker date="1508621640098" expanded="true" signature="158:170" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -127,7 +142,6 @@
     <setting file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Observable.Unity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/ObjectPooled.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Factories/FactoryPlayer.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/4e/a53ea057/Object.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample10_MainThreadDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
@@ -196,13 +210,14 @@
         <option value="$PROJECT_DIR$/Assets/PoolManager/Interfaces/IPoolable.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/BigShip.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/Example/FactoryShip.cs" />
-        <option value="$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" />
-        <option value="$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/4e/a53ea057/Object.cs" />
-        <option value="$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs" />
         <option value="$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/PoolManager/Pool.cs" />
-        <option value="$PROJECT_DIR$/Assets/PoolManager/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/ObjectPooled.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs" />
       </list>
     </option>
@@ -214,8 +229,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
+    <option name="x" value="3551" />
+    <option name="y" value="72" />
     <option name="width" value="2576" />
     <option name="height" value="1426" />
   </component>
@@ -433,7 +448,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65961000" />
+    <option name="totallyTimeSpent" value="66181000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,7 +460,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="2576" height="1426" extended-state="6" />
+    <frame x="3551" y="72" width="2576" height="1426" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -463,13 +478,28 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991317" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10055644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25198728" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -601,20 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorProbeShip.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2432">
@@ -650,20 +666,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="2112" column="21" lean-forward="false" selection-start-line="2112" selection-start-column="21" selection-end-line="2112" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12416">
-          <caret line="488" column="54" lean-forward="false" selection-start-line="488" selection-start-column="54" selection-end-line="488" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/4e/a53ea057/Object.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -771,99 +775,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/PathologicalGames/PoolManager/SpawnPoolInspector.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/PathologicalGames/PoolManager/PreRuntimePoolItemInspector.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ObjectPooled.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1946">
-          <caret line="94" column="10" lean-forward="false" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
-          <folding>
-            <marker date="1508613484986" expanded="true" signature="6:100" ph="..." />
-            <marker date="1508613484986" expanded="true" signature="122:3230" ph="{...}" />
-            <marker date="1508613484986" expanded="true" signature="458:1166" ph="{...}" />
-            <marker date="1508613484986" expanded="true" signature="710:1137" ph="{...}" />
-            <marker date="1508613484986" expanded="true" signature="812:1125" ph="{...}" />
-            <marker date="1508613484986" expanded="false" signature="1220:1261" ph="{...}" />
-            <marker date="1508613484986" expanded="true" signature="1415:2349" ph="{...}" />
-            <marker date="1508613484986" expanded="true" signature="1622:2092" ph="{...}" />
-            <marker date="1508613484986" expanded="true" signature="2390:2692" ph="{...}" />
-            <marker date="1508613484986" expanded="false" signature="2720:2817" ph="{...}" />
-            <marker date="1508613484986" expanded="true" signature="2975:3226" ph="{...}" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ObjectPooled.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1508527529431" expanded="false" signature="6:78" ph="..." />
-            <marker date="1508527529431" expanded="true" signature="133:235" ph="{...}" />
-            <marker date="1508527529431" expanded="true" signature="164:185" ph="{...}" />
-            <marker date="1508527529431" expanded="true" signature="214:233" ph="{...}" />
+            <marker date="1508621607674" expanded="true" signature="19:97" ph="{...}" />
+            <marker date="1508621607674" expanded="true" signature="46:95" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1508621640098" expanded="true" signature="6:34" ph="..." />
+            <marker date="1508621640098" expanded="true" signature="85:182" ph="{...}" />
+            <marker date="1508621640098" expanded="true" signature="114:129" ph="{...}" />
+            <marker date="1508621640098" expanded="true" signature="158:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1508621647692" expanded="true" signature="7:69" ph="..." />
+            <marker date="1508621647692" expanded="true" signature="106:854" ph="{...}" />
+            <marker date="1508621647692" expanded="true" signature="282:352" ph="{...}" />
+            <marker date="1508621647692" expanded="true" signature="372:847" ph="{...}" />
+            <marker date="1508621647692" expanded="true" signature="420:590" ph="{...}" />
+            <marker date="1508621647692" expanded="true" signature="470:579" ph="{...}" />
+            <marker date="1508621647692" expanded="true" signature="638:834" ph="{...}" />
+            <marker date="1508621647692" expanded="true" signature="697:798" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1508540826797" expanded="false" signature="6:78" ph="..." />
-            <marker date="1508540826797" expanded="true" signature="129:269" ph="{...}" />
-            <marker date="1508540826797" expanded="true" signature="201:216" ph="{...}" />
-            <marker date="1508540826797" expanded="true" signature="245:257" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
+            <marker date="1508621620147" expanded="true" signature="290:384" ph="..." />
+            <marker date="1508621620147" expanded="true" signature="404:3830" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="429:3828" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="791:1573" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="1064:1536" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="1174:1520" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="1623:1676" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="1846:2852" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="2074:2590" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="2897:3224" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="3256:3373" ph="{...}" />
+            <marker date="1508621620147" expanded="true" signature="3539:3820" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508621631522" expanded="true" signature="18:121" ph="{...}" />
+            <marker date="1508621631522" expanded="true" signature="51:118" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+        <state relative-caret-position="-384">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1508613494385" expanded="true" signature="6:68" ph="..." />
-            <marker date="1508613494385" expanded="true" signature="120:1610" ph="{...}" />
-            <marker date="1508613494385" expanded="true" signature="252:767" ph="{...}" />
-            <marker date="1508613494385" expanded="true" signature="337:740" ph="{...}" />
-            <marker date="1508613494385" expanded="true" signature="443:730" ph="{...}" />
-            <marker date="1508613494385" expanded="false" signature="949:1035" ph="{...}" />
-            <marker date="1508613494385" expanded="false" signature="1227:1354" ph="{...}" />
-            <marker date="1508613494385" expanded="false" signature="1408:1457" ph="{...}" />
-            <marker date="1508613494385" expanded="false" signature="1485:1603" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/PathologicalGames/PoolManager/SpawnPoolInspector.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/PathologicalGames/PoolManager/PreRuntimePoolItemInspector.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding>
-            <marker date="1508617282467" expanded="true" signature="7:53" ph="..." />
-            <marker date="1508617282467" expanded="true" signature="90:867" ph="{...}" />
-            <marker date="1508617282467" expanded="true" signature="295:365" ph="{...}" />
-            <marker date="1508617282467" expanded="true" signature="385:860" ph="{...}" />
-            <marker date="1508617282467" expanded="true" signature="433:603" ph="{...}" />
-            <marker date="1508617282467" expanded="true" signature="483:592" ph="{...}" />
-            <marker date="1508617282467" expanded="true" signature="651:847" ph="{...}" />
-            <marker date="1508617282467" expanded="true" signature="710:811" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
+            <marker date="1508621575002" expanded="true" signature="289:335" ph="..." />
+            <marker date="1508621575002" expanded="true" signature="355:2078" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="413:2075" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="557:1136" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="654:1101" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="776:1087" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="1330:1428" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="1632:1775" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="1833:1894" ph="{...}" />
+            <marker date="1508621575002" expanded="true" signature="1926:2064" ph="{...}" />
           </folding>
         </state>
       </provider>
