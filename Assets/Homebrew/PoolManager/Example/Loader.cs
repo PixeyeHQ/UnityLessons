@@ -15,16 +15,11 @@ public class Loader : MonoBehaviour
 
     void Awake()
     {
-      //  ManagerPool.Instance.AddPool(PoolType.Entities).PopulateWith(prefab, 100, 10);
-
-       
-
+        ManagerPool.Instance.AddPool(PoolType.Entities);
+     
     }
 
-    void Start()
-    {
-    //   ManagerPool.Instance.Get(PoolType.Entities).PopulateWith(prefab, 10, 1, 100);
-    }
+
 
     void Update()
     {
