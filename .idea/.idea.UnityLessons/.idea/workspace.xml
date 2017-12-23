@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aad5b8d5-037e-45ba-8d95-23b926df7bfc" name="Default" comment="" />
+    <list default="true" id="aad5b8d5-037e-45ba-8d95-23b926df7bfc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerBase.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerBase.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerEvents.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerEvents.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerUpdate.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerUpdate.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerUpdateComponent.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/ManagerUpdateComponent.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerEvents 1.asset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerEvents 1.asset.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerEvents 2.asset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerEvents 2.asset.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerEvents.asset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerEvents.asset.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerUpdate.asset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerUpdate.asset.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityLessons/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityLessons/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityLessons/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityLessons/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityLessons/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityLessons/riderModule.iml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,135 +29,124 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="ManagerUpdate.cs" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerUpdate.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="438">
+                    <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+                    <folding>
+                      <marker date="1514032702223" expanded="false" signature="6:91" ph="..." />
+                      <marker date="1514032702223" expanded="true" signature="223:1556" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="445:746" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="795:1107" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="1129:1203" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="1172:1200" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="1229:1318" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="1277:1315" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="1343:1432" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="1393:1429" ph="{...}" />
+                      <marker date="1514032702223" expanded="true" signature="1461:1549" ph="{...}" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ManagerPool.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-960">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1508621575002" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
-                <marker date="1508621575002" expanded="true" signature="289:335" ph="..." />
-                <marker date="1508621575002" expanded="true" signature="355:2078" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="413:2075" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="557:1136" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="654:1101" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="776:1087" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="1330:1428" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="1632:1775" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="1833:1894" ph="{...}" />
-                <marker date="1508621575002" expanded="true" signature="1926:2064" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Starter.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="73" column="56" lean-forward="false" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
-              <folding>
-                <marker date="1508622362854" expanded="true" signature="0:277" ph="/* =============================================================== ... */" />
-                <marker date="1508622362854" expanded="false" signature="285:462" ph="..." />
-                <marker date="1508622362854" expanded="true" signature="483:1743" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="547:1741" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="554:1735" ph="MEMBERS" />
-                <marker date="1508622362854" expanded="true" signature="718:776" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="802:876" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="989:1477" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="1098:1166" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="1263:1457" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="1301:1447" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="1507:1674" ph="{...}" />
-                <marker date="1508622362854" expanded="true" signature="1706:1719" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IPoolable.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs">
+      <file leaf-file-name="ManagerTimer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerTimer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
-                <marker date="1508621631522" expanded="true" signature="18:121" ph="{...}" />
-                <marker date="1508621631522" expanded="true" signature="51:118" ph="{...}" />
+                <marker date="1514033275346" expanded="false" signature="6:92" ph="..." />
+                <marker date="1514033275346" expanded="true" signature="112:548" ph="{...}" />
+                <marker date="1514033275346" expanded="true" signature="158:546" ph="{...}" />
+                <marker date="1514033275346" expanded="true" signature="271:540" ph="{...}" />
+                <marker date="1514033275346" expanded="true" signature="374:493" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pool.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs">
+      <file leaf-file-name="ManagerEntity.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Managers/ManagerEntity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Timer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Timer/Timer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
               <folding>
-                <marker date="1508621620147" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
-                <marker date="1508621620147" expanded="true" signature="290:384" ph="..." />
-                <marker date="1508621620147" expanded="true" signature="404:3830" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="429:3828" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="791:1573" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="1064:1536" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="1174:1520" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="1623:1676" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="1846:2852" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="2074:2590" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="2897:3224" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="3256:3373" ph="{...}" />
-                <marker date="1508621620147" expanded="true" signature="3539:3820" ph="{...}" />
+                <marker date="1514033239619" expanded="false" signature="6:34" ph="..." />
+                <marker date="1514033239619" expanded="true" signature="56:1136" ph="{...}" />
+                <marker date="1514033239619" expanded="true" signature="96:1134" ph="{...}" />
+                <marker date="1514033239619" expanded="true" signature="323:398" ph="{...}" />
+                <marker date="1514033239619" expanded="false" signature="468:748" ph="{...}" />
+                <marker date="1514033239619" expanded="true" signature="611:674" ph="{...}" />
+                <marker date="1514033239619" expanded="false" signature="772:846" ph="{...}" />
+                <marker date="1514033239619" expanded="false" signature="867:916" ph="{...}" />
+                <marker date="1514033239619" expanded="false" signature="940:1130" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PoolType.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs">
+      <file leaf-file-name="IEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Interfaces/IEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/IEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
               <folding>
-                <marker date="1508621607674" expanded="true" signature="19:97" ph="{...}" />
-                <marker date="1508621607674" expanded="true" signature="46:95" ph="{...}" />
+                <marker date="1514032746858" expanded="true" signature="54:122" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Loader.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs">
+      <file leaf-file-name="ManagerEvents.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Managers/ManagerEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <marker date="1508621647692" expanded="true" signature="7:69" ph="..." />
-                <marker date="1508621647692" expanded="true" signature="106:854" ph="{...}" />
-                <marker date="1508621647692" expanded="true" signature="282:352" ph="{...}" />
-                <marker date="1508621647692" expanded="true" signature="372:847" ph="{...}" />
-                <marker date="1508621647692" expanded="true" signature="420:590" ph="{...}" />
-                <marker date="1508621647692" expanded="true" signature="470:579" ph="{...}" />
-                <marker date="1508621647692" expanded="true" signature="638:834" ph="{...}" />
-                <marker date="1508621647692" expanded="true" signature="697:798" ph="{...}" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BigShip.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs">
+      <file leaf-file-name="Timer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Utilities/Timers/Timer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <marker date="1508621640098" expanded="true" signature="6:34" ph="..." />
-                <marker date="1508621640098" expanded="true" signature="85:182" ph="{...}" />
-                <marker date="1508621640098" expanded="true" signature="114:129" ph="{...}" />
-                <marker date="1508621640098" expanded="true" signature="158:170" ph="{...}" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -148,53 +157,68 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Behaviours/RenderGroup.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/69/da65d09c/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Helpers/Editor/ShipSetupHelper.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Behaviours/AI/BlackBoard.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Factories/FactoryPlayer.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Interfaces/IEvent.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Observable.Unity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/91C0191C-4815-4FC3-8DB9-78E1A55BC0D9/40/399cab80/EditorSceneManager.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorCorvetteShip.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/fb/8709e293/GameObject.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorAsteroid.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Decorators/DecoratorWeaponBeam.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/f7/43d29b58/Object.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorProbeShip.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/77/1d12320f/Enum.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/AI/Actions/AIShipLookAtTarget.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/EditorPostProcessor.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/AI/Actions/AIShipAttack.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/MeshPostProcessor.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Actor.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Timer/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample10_MainThreadDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/[1]Homebrew/PoolManager/ManagerPool.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/[1]Homebrew/PoolManager/Pool.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample06_ConvertToCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample03_GameObjectAsObservable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/4e/a53ea057/Object.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample07_OrchestratIEnumerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample02_ObservableTriggers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Managers/ManagerEvents.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/IEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Starters/Starter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/[0]Game/Behaviors/BehaviorMove.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample11_Logger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/PoolManager/ManagerPool.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/PoolManager/Pool.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Managers/ManagerEntity.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample12_ReactiveProperty.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Toolbox.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Actors/ActorDeckReactor.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Unity3dTools/Assets/PoolManager/ManagerPool.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demo/ActorZombie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/ITickLate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Utilities/BaseBehaviour.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Toolbox/Toolbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/ITickFixed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/ITick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/IAwake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/IStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Utilities/Timers/Timer.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Utilities/Singleton.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/85/55c8a5c6/Dictionary`2.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Events/EventKill.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/ProjectPref/Editor/SceneGenerator.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Behaviours/RenderGroup.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/PoolManager/Pool.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/PoolManager/ManagerPool.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/69/da65d09c/List`1.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Helpers/Editor/ShipSetupHelper.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Managers/UpdateManager.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project/[0]Code/Behaviours/AI/BlackBoard.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Observable.Unity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Factories/FactoryPlayer.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/4e/a53ea057/Object.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample10_MainThreadDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/91C0191C-4815-4FC3-8DB9-78E1A55BC0D9/40/399cab80/EditorSceneManager.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorCorvetteShip.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample07_OrchestratIEnumerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorProbeShip.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/fb/8709e293/GameObject.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample02_ObservableTriggers.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorAsteroid.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample06_ConvertToCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Decorators/DecoratorWeaponBeam.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample03_GameObjectAsObservable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/f7/43d29b58/Object.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/77/1d12320f/Enum.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample11_Logger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/EditorPostProcessor.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Editor/MeshPostProcessor.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Examples/Sample12_ReactiveProperty.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Actor.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/AI/Actions/AIShipLookAtTarget.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/AI/Actions/AIShipAttack.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/[1]Homebrew/PoolManager/Pool.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/[1]Homebrew/PoolManager/ManagerPool.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Homebrew/PoolManager/Example/Loader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Battlecruiser/Assets/ProjectPref/Editor/SceneGenerator.cs" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -241,6 +265,11 @@
         <option value="$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs" />
         <option value="$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" />
         <option value="$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Homebrew/Interfaces/IEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Homebrew/Timer/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerTimer.cs" />
+        <option value="$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Managers/ManagerEntity.cs" />
       </list>
     </option>
   </component>
@@ -250,9 +279,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2295" />
-    <option name="y" value="110" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-71" />
+    <option name="y" value="195" />
     <option name="width" value="2576" />
     <option name="height" value="1426" />
   </component>
@@ -271,28 +300,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UnityLessons (3 projects)" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityLessons (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -307,6 +333,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_KIND" value="None" />
@@ -371,15 +406,6 @@
     <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -434,12 +460,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
-    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -466,11 +486,13 @@
       <workItem from="1508536364147" duration="438000" />
       <workItem from="1508537838034" duration="10493000" />
       <workItem from="1508609600452" duration="5029000" />
+      <workItem from="1514031659961" duration="993000" />
+      <workItem from="1514032668090" duration="1107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66815000" />
+    <option name="totallyTimeSpent" value="68915000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,7 +504,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2295" y="110" width="2576" height="1426" extended-state="0" />
+    <frame x="-8" y="22" width="2576" height="1426" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -494,33 +516,18 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10055644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10214626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25198728" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991317" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10055644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25198728" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -549,7 +556,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -561,55 +568,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scriptables/Scrippa.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/69/da65d09c/List`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="214" column="5" lean-forward="true" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scriptables/TestScriptable.cs" />
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs" />
-    <entry file="file://$PROJECT_DIR$/../../Part/NiffelheimDima/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DF3E556-2CD3-4B46-A27E-52C7D8ACD8E6/fb/8709e293/GameObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="75" column="7" lean-forward="false" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Singleton/Scripts/InputShip.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Interfaces/IPoolable.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/FactoryShip.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/BigShip.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/FactoryShip.cs" />
-    <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorCorvetteShip.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/[a]Project_V2.0/Scripts/Actors/ActorAsteroid.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -770,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,99 +735,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2720">
           <caret line="85" column="33" lean-forward="false" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Editor/PathologicalGames/PoolManager/SpawnPoolInspector.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Editor/PathologicalGames/PoolManager/PreRuntimePoolItemInspector.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ObjectPooled.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508621607674" expanded="true" signature="19:97" ph="{...}" />
-            <marker date="1508621607674" expanded="true" signature="46:95" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1508621640098" expanded="true" signature="6:34" ph="..." />
-            <marker date="1508621640098" expanded="true" signature="85:182" ph="{...}" />
-            <marker date="1508621640098" expanded="true" signature="114:129" ph="{...}" />
-            <marker date="1508621640098" expanded="true" signature="158:170" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1508621647692" expanded="true" signature="7:69" ph="..." />
-            <marker date="1508621647692" expanded="true" signature="106:854" ph="{...}" />
-            <marker date="1508621647692" expanded="true" signature="282:352" ph="{...}" />
-            <marker date="1508621647692" expanded="true" signature="372:847" ph="{...}" />
-            <marker date="1508621647692" expanded="true" signature="420:590" ph="{...}" />
-            <marker date="1508621647692" expanded="true" signature="470:579" ph="{...}" />
-            <marker date="1508621647692" expanded="true" signature="638:834" ph="{...}" />
-            <marker date="1508621647692" expanded="true" signature="697:798" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508621620147" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
-            <marker date="1508621620147" expanded="true" signature="290:384" ph="..." />
-            <marker date="1508621620147" expanded="true" signature="404:3830" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="429:3828" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="791:1573" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="1064:1536" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="1174:1520" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="1623:1676" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="1846:2852" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="2074:2590" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="2897:3224" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="3256:3373" ph="{...}" />
-            <marker date="1508621620147" expanded="true" signature="3539:3820" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508621631522" expanded="true" signature="18:121" ph="{...}" />
-            <marker date="1508621631522" expanded="true" signature="51:118" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ObjectPooled.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/BigShip.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Example/Loader.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" />
     <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,68 +757,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <marker date="1508621992212" expanded="false" signature="24:84" ph="..." />
-            <marker date="1508621992212" expanded="true" signature="101:2310" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="165:2308" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="266:504" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="292:385" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="401:494" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="542:802" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="568:631" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="647:792" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="702:778" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="949:1177" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="1105:1167" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="1319:1401" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="1454:2293" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="1477:1870" ph="/* Before scene start:          isPlayingOrWillChangePlaymode = false;  isPlaying = false ... */" />
-            <marker date="1508621992212" expanded="true" signature="1967:2037" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="2054:2125" ph="{...}" />
-            <marker date="1508621992212" expanded="true" signature="2220:2283" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508621575002" expanded="true" signature="0:281" ph="/* =============================================================== ... */" />
-            <marker date="1508621575002" expanded="true" signature="289:335" ph="..." />
-            <marker date="1508621575002" expanded="true" signature="355:2078" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="413:2075" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="557:1136" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="654:1101" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="776:1087" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="1330:1428" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="1632:1775" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="1833:1894" ph="{...}" />
-            <marker date="1508621575002" expanded="true" signature="1926:2064" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" />
     <entry file="file://$PROJECT_DIR$/../Battlecruiser/Assets/Homebrew/Plugins/GameFramework/Scripts/Starter.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="73" column="56" lean-forward="false" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[0]Ideas/Stories/Alex_ideas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Starters/Starter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Toolbox/Toolbox.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Demo/ActorZombie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/ITick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Interfaces/IEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Utilities/Timers/Timer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Interfaces/IEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
           <folding>
-            <marker date="1508622362854" expanded="true" signature="0:277" ph="/* =============================================================== ... */" />
-            <marker date="1508622362854" expanded="false" signature="285:462" ph="..." />
-            <marker date="1508622362854" expanded="true" signature="483:1743" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="547:1741" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="554:1735" ph="MEMBERS" />
-            <marker date="1508622362854" expanded="true" signature="718:776" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="802:876" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="989:1477" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="1098:1166" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="1263:1457" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="1301:1447" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="1507:1674" ph="{...}" />
-            <marker date="1508622362854" expanded="true" signature="1706:1719" ph="{...}" />
+            <marker date="1514032746858" expanded="true" signature="54:122" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Managers/ManagerEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Timer/Timer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <marker date="1514033239619" expanded="false" signature="6:34" ph="..." />
+            <marker date="1514033239619" expanded="true" signature="56:1136" ph="{...}" />
+            <marker date="1514033239619" expanded="true" signature="96:1134" ph="{...}" />
+            <marker date="1514033239619" expanded="true" signature="323:398" ph="{...}" />
+            <marker date="1514033239619" expanded="false" signature="468:748" ph="{...}" />
+            <marker date="1514033239619" expanded="true" signature="611:674" ph="{...}" />
+            <marker date="1514033239619" expanded="false" signature="772:846" ph="{...}" />
+            <marker date="1514033239619" expanded="false" signature="867:916" ph="{...}" />
+            <marker date="1514033239619" expanded="false" signature="940:1130" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerUpdate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <marker date="1514032702223" expanded="false" signature="6:91" ph="..." />
+            <marker date="1514032702223" expanded="true" signature="223:1556" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="445:746" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="795:1107" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="1129:1203" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="1172:1200" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="1229:1318" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="1277:1315" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="1343:1432" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="1393:1429" ph="{...}" />
+            <marker date="1514032702223" expanded="true" signature="1461:1549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Homebrew/Managers/ManagerTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <marker date="1514033275346" expanded="false" signature="6:92" ph="..." />
+            <marker date="1514033275346" expanded="true" signature="112:548" ph="{...}" />
+            <marker date="1514033275346" expanded="true" signature="158:546" ph="{...}" />
+            <marker date="1514033275346" expanded="true" signature="271:540" ph="{...}" />
+            <marker date="1514033275346" expanded="true" signature="374:493" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cryoshock/Assets/[1]Code/Managers/ManagerEntity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

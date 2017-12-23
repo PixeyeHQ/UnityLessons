@@ -27,8 +27,6 @@ public class ManagerUpdate : ManagerBase, IAwake {
 			mngUpdate.ticksLate.Add(updateble as ITickLate);
 
 	}
-
-
 	public static void RemoveFrom(object updateble)
 	{
 		
